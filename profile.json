@@ -1,15 +1,14 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Sapioit",
+		"label": "Developer",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://pagadala.me/about/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
+		"email": "sapioit@gmail.com",
+		"website": "https://sapioit.com/",
+		"twitter": "https://twitter.com/sapioit",
+		"facebook": "https://fb.com/cosmin.iulian.berindeanu",
+		"github": "http://github.com/sapioit",
+		"summary": "Continuous Learner, Polymath, Programmer, Web Designer, Web Developer, Software Developer, Gamer.   On the journey of becoming Entrepreneur and Hustler."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
